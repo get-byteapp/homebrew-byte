@@ -1,7 +1,7 @@
 cask "byte" do
-  version "1.0.69"
-  sha256 "cee0d5c937ad5719d690cc03cd9f320db269d49457608f379760792796192183"
-  url "https://github.com/get-byteapp/byte/releases/download/v1.0.69/Byte_aarch64.dmg"
+  version "1.0.70"
+  sha256 "4e6dd35c60a3d2b5059a60ba7a4cb86048d938175fcec550b6c913fbd4c13088"
+  url "https://github.com/get-byteapp/byte/releases/download/v1.0.70/Byte_aarch64.dmg"
 
   name "Byte"
   desc "AI assistant for your desktop"
